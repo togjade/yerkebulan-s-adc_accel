@@ -21,6 +21,7 @@ Compass files are for the configuring the STM32f3discovery to read the Accelerom
 checkaudio.py file to check if the stm is connected. 
   * check the device ID with the checkAudio.py script -> run python checkAudio.py
   * Check if the ID are the same as in the script where you access the stream (input_device_index) -> 
+  
 		stream = audio.open(format=FORMAT, channels=CHANNELS,
                 rate=RATE, input=True,
                 frames_per_buffer=CHUNK,input_device_index=10)
