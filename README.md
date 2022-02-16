@@ -1,6 +1,6 @@
 # STM-accelerometer-files
 
-#Credits to Yerkebulan Massaliim
+## Credits to Yerkebulan Massaliim
 
 Configure STM for ADC module  + accelerometers
 
