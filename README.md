@@ -1,6 +1,8 @@
 # STM-accelerometer-files
+
 Configure STM for ADC module  + accelerometers
 
+Credits to Yerkebulan Massaliim
 
 Compass files are for the configuring the STM32f3discovery to read the Accelerometer data as a audio input. 
   1) to upload the code to the STM32:
