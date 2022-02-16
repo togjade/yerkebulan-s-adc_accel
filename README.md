@@ -15,7 +15,10 @@ Compass files are for the configuring the STM32f3discovery to read the Accelerom
 		* Connect board (USB ST-Link) to computer
 		* Click on the icon (download code to Flash)
 		* When Finished connect to USB User and feel free to use
+		
   2) For the ADC connection check the datasheet attached [here](https://github.com/togjade/yerkebulan-s-adc_accel/blob/main/ADC%20documentation.docx)
+	* For ADC soldering refer to the [video](https://www.youtube.com/watch?v=pbf9vqQA8tQ&ab_channel=TactileRobotics)
+
   3) Look [here](https://github.com/togjade/yerkebulan-s-adc_accel/blob/main/accel_pub.py) for the sampling data with ROS.
   
 checkaudio.py file to check if the stm is connected. 
